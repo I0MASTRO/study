@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/dmitrijdenisov/study/index.html"
+            "file": "/Users/dmitrijdenisov/VS Code/study/index.html" 
         }
     ]
 }
